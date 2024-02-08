@@ -6,7 +6,13 @@ In this project developed using Html, Css and JavaScript, I access the Github AP
 
 It was coded using Html,Css and JavaScprit technologies.
 
+<h2> Demo </h2>
+
+You can view a live demo of this project [here]
+(https://seliinatmaca.github.io/gitHubCardProfile/)
+
 <h2> screenshot </h2>
 
 ![](screen.gif)
+
 # gitHubCardProfile
